@@ -1,0 +1,82 @@
+# Enzo Chatbot
+
+Enzo is a web-based chatbot designed to manage and answer WhatsApp chats. It utilizes AI to provide quick and accurate responses, enhancing user interaction and experience.
+
+![Enzo Logo](/frontend/assets/bot-icon.png) <!-- Update the path to your logo -->
+
+## Table of Contents
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Setup Instructions](#setup-instructions)
+- [How to Use](#how-to-use)
+- [License](#license)
+- [Code of Conduct](#code-of-conduct)
+- [Contact Information](#contact-information)
+
+## Features
+- AI-driven responses similar to ChatGPT.
+- User-friendly interface.
+- Easy integration with WhatsApp.
+- Customizable settings for personal user experience.
+
+## Technologies Used
+- HTML
+- CSS
+- JavaScript
+- Node.js (for backend)
+- Express.js
+- OpenAI API (for AI responses)
+
+## Setup Instructions
+
+### Prerequisites
+- Node.js installed on your machine.
+- Access to OpenAI API keys.
+
+### Clone the Repository
+```bash
+git clone https://github.com/yourusername/enzo-chatbot.git
+cd enzo-chatbot
+
+Install Dependencies
+
+bash
+
+npm install
+
+Configure Environment Variables
+Create a .env file in the root directory and add your OpenAI API key:
+
+makefile
+
+OPENAI_API_KEY=your_api_key_here
+Run the Application
+
+bash
+
+node server.js
+Access the Chatbot
+Open your browser and go to http://localhost:5500 to start using Enzo.
+
+How to Use
+Type your message in the input field.
+Click the send button or press Enter to send your message.
+Enzo will respond based on the input you provided.
+License
+This project is licensed under the Custom License. If you want to use this project, please contact me to discuss usage and fees.
+
+Code of Conduct
+This project adheres to a Code of Conduct that outlines the expectations for participants and the consequences of unacceptable behavior.
+
+Thank you for contributing to this project!
+Your cooperation and respect are greatly appreciated.
+
+Signed,
+Manav Tyagi
+IT Specialist 
+Your Website or GitHub Profile
+Email: tyagimanav073@gmail.com
+Phone: +91 7303157792
+
+Contact Information
+For any inquiries or suggestions, please feel free to reach out via the contact information provided above.
