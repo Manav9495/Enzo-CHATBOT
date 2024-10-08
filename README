@@ -35,7 +35,7 @@ Enzo is a web-based chatbot designed to manage and answer WhatsApp chats. It uti
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/yourusername/enzo-chatbot.git
+git clone https://github.com/Manav9495/Enzo-CHATBOT
 cd enzo-chatbot
 
 Install Dependencies
